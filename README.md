@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hari-hash
 - 👀 I’m interested in Linux
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on CEH
 - 📫 U can reach me here
 
